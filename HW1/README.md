@@ -1,6 +1,6 @@
-###1. analysis.py為python執行檔，student_data.csv為使用之資料集
-###2. 資料說明:
-###3. 提問問題:
+### 1. analysis.py為python執行檔，student_data.csv為使用之資料集
+### 2. 資料說明:
+### 3. 提問問題:
 1.填表學生的性別分布
 2.表填學生之年齡分布
 3.每周學習時間與學業成績的關係
