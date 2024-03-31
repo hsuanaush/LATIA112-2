@@ -1,5 +1,6 @@
 ### 1. analysis.py為python執行檔，student_data.csv為使用之資料集
 ### 2. 資料說明:
+- 數據下載自kaggle
 ### 3. 提問問題:
 - 填表學生的性別分布
 - 表填學生之年齡分布
